@@ -1,0 +1,14 @@
+{
+  "name": "ios-agent-kit",
+  "version": "0.1.0",
+  "description": "Build, test, launch and screenshot iOS apps on a Mac with Xcode: a skill for Claude Code and Codex, plus AGENTS.md and CLAUDE.md templates for iOS repositories.",
+  "author": {
+    "name": "Macswarm",
+    "email": "info@macswarm.com",
+    "url": "https://macswarm.com"
+  },
+  "homepage": "https://github.com/macswarm/ios-agent-kit",
+  "repository": "https://github.com/macswarm/ios-agent-kit",
+  "license": "MIT",
+  "keywords": ["ios", "xcode", "ios-simulator", "xcodebuild", "swift", "claude-code", "codex", "testing"]
+}

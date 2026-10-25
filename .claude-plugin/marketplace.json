@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "macswarm",
+  "owner": {
+    "name": "Macswarm",
+    "email": "info@macswarm.com"
+  },
+  "metadata": {
+    "description": "Skills from Macswarm for coding agents that build and test iOS apps on a Mac."
+  },
+  "plugins": [
+    {
+      "name": "ios-agent-kit",
+      "source": "./",
+      "description": "Build, test, launch and screenshot iOS apps on a Mac with Xcode, with AGENTS.md and CLAUDE.md templates for iOS repositories.",
+      "author": {
+        "name": "Macswarm",
+        "email": "info@macswarm.com",
+        "url": "https://macswarm.com"
+      },
+      "category": "development",
+      "homepage": "https://github.com/macswarm/ios-agent-kit",
+      "keywords": ["ios", "xcode", "ios-simulator", "claude-code", "codex"]
+    }
+  ]
+}
